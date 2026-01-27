@@ -33,7 +33,7 @@
     { "key": "creatures/groveback/2", "type": "image", "path": "creatures/groveback2.png" },
     { "key": "creatures/groveback/3", "type": "image", "path": "creatures/groveback3.png" },
 
-    { "key": "creatures/frog/egg", "type": "image", "path": "creatures/frogegg.png" },
+    { "key": "creatures/frog/egg", "type": "image", "path": "creatures/frogegg2.png" },
     { "key": "creatures/frog/1", "type": "image", "path": "creatures/frog1.png" },
     { "key": "creatures/frog/2", "type": "image", "path": "creatures/frog2.png" },
     { "key": "creatures/frog/3", "type": "image", "path": "creatures/frog3.png" },
