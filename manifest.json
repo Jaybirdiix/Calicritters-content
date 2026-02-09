@@ -86,7 +86,9 @@
     { "key": "creatures/voidslug/egg", "type": "image", "path": "creatures/voidslugegg.png" },
     { "key": "creatures/voidslug/1", "type": "image", "path": "creatures/voidslug1.png" },
     { "key": "creatures/voidslug/2", "type": "image", "path": "creatures/voidslug2.png" },
-    { "key": "creatures/voidslug/3", "type": "image", "path": "creatures/voidslug3.png" }
+    { "key": "creatures/voidslug/3", "type": "image", "path": "creatures/voidslug3.png" },
+
+    { "key": "exercises/frogstand", "type": "image", "path": "exercises/frogstand.png" }
   ],
 
   "creatureEvolutions": {
