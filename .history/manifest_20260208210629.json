@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-27",
+  "baseUrl": "https://raw.githubusercontent.com/Jaybirdiix/Calicritters-content/main/",
+  "assets": [
+    { "key": "creatures/cyberspark/egg", "type": "image", "path": "creatures/cybersparkegg.png" },
+    { "key": "creatures/cyberspark/1", "type": "image", "path": "creatures/cyberspark1.png" },
+    { "key": "creatures/cyberspark/2", "type": "image", "path": "creatures/cyberspark2.png" },
+    { "key": "creatures/cyberspark/3", "type": "image", "path": "creatures/cyberspark3.png" },
+
+    { "key": "creatures/frostglide/egg", "type": "image", "path": "creatures/frostglideegg.png" },
+    { "key": "creatures/frostglide/1", "type": "image", "path": "creatures/frostglide1.png" },
+    { "key": "creatures/frostglide/2", "type": "image", "path": "creatures/frostglide2.png" },
+    { "key": "creatures/frostglide/3", "type": "image", "path": "creatures/frostglide3.png" },
+
+    { "key": "creatures/glassfin/egg", "type": "image", "path": "creatures/glassfinegg.png" },
+    { "key": "creatures/glassfin/1", "type": "image", "path": "creatures/glassfin1.png" },
+    { "key": "creatures/glassfin/2", "type": "image", "path": "creatures/glassfin2.png" },
+    { "key": "creatures/glassfin/3", "type": "image", "path": "creatures/glassfin3.png" },
+
+    { "key": "creatures/diamond/egg", "type": "image", "path": "creatures/diamondegg.png" },
+    { "key": "creatures/diamond/1", "type": "image", "path": "creatures/diamond1.png" },
+    { "key": "creatures/diamond/2", "type": "image", "path": "creatures/diamond2.png" },
+    { "key": "creatures/diamond/3", "type": "image", "path": "creatures/diamond3.png" },
+
+    { "key": "creatures/gorilla/egg", "type": "image", "path": "creatures/gorillaegg.png" },
+    { "key": "creatures/gorilla/1", "type": "image", "path": "creatures/gorilla1.png" },
+    { "key": "creatures/gorilla/2", "type": "image", "path": "creatures/gorilla2.png" },
+    { "key": "creatures/gorilla/3", "type": "image", "path": "creatures/gorilla3.png" },
+
+    { "key": "creatures/groveback/egg", "type": "image", "path": "creatures/grovebackegg.png" },
+    { "key": "creatures/groveback/1", "type": "image", "path": "creatures/groveback1.png" },
+    { "key": "creatures/groveback/2", "type": "image", "path": "creatures/groveback2.png" },
+    { "key": "creatures/groveback/3", "type": "image", "path": "creatures/groveback3.png" },
+
+    { "key": "creatures/frog/egg", "type": "image", "path": "creatures/frogegg.png" },
+    { "key": "creatures/frog/1", "type": "image", "path": "creatures/frog1.png" },
+    { "key": "creatures/frog/2", "type": "image", "path": "creatures/frog2.png" },
+    { "key": "creatures/frog/3", "type": "image", "path": "creatures/frog3.png" },
+
+    { "key": "creatures/ironbeetle/egg", "type": "image", "path": "creatures/ironbeetleegg.png" },
+    { "key": "creatures/ironbeetle/1", "type": "image", "path": "creatures/ironbeetle1.png" },
+    { "key": "creatures/ironbeetle/2", "type": "image", "path": "creatures/ironbeetle2.png" },
+    { "key": "creatures/ironbeetle/3", "type": "image", "path": "creatures/ironbeetle3.png" },
+
+    { "key": "creatures/ironbulwark/egg", "type": "image", "path": "creatures/ironbulwarkegg.png" },
+    { "key": "creatures/ironbulwark/1", "type": "image", "path": "creatures/ironbulwark1.png" },
+    { "key": "creatures/ironbulwark/2", "type": "image", "path": "creatures/ironbulwark2.png" },
+    { "key": "creatures/ironbulwark/3", "type": "image", "path": "creatures/ironbulwark3.png" },
+
+    { "key": "creatures/magmacore/egg", "type": "image", "path": "creatures/magmacoreegg.png" },
+    { "key": "creatures/magmacore/1", "type": "image", "path": "creatures/magmacore1.png" },
+    { "key": "creatures/magmacore/2", "type": "image", "path": "creatures/magmacore2.png" },
+    { "key": "creatures/magmacore/3", "type": "image", "path": "creatures/magmacore3.png" },
+
+    { "key": "creatures/mech/egg", "type": "image", "path": "creatures/mechegg.png" },
+    { "key": "creatures/mech/1", "type": "image", "path": "creatures/mech1.png" },
+    { "key": "creatures/mech/2", "type": "image", "path": "creatures/mech2.png" },
+    { "key": "creatures/mech/3", "type": "image", "path": "creatures/mech3.png" },
+
+    { "key": "creatures/moonmoth/egg", "type": "image", "path": "creatures/moonmothegg.png" },
+    { "key": "creatures/moonmoth/1", "type": "image", "path": "creatures/moonmoth1.png" },
+    { "key": "creatures/moonmoth/2", "type": "image", "path": "creatures/moonmoth2.png" },
+    { "key": "creatures/moonmoth/3", "type": "image", "path": "creatures/moonmoth3.png" },
+
+    { "key": "creatures/riotstripe/egg", "type": "image", "path": "creatures/riotstripeegg.png" },
+    { "key": "creatures/riotstripe/1", "type": "image", "path": "creatures/riotstripe1.png" },
+    { "key": "creatures/riotstripe/2", "type": "image", "path": "creatures/riotstripe2.png" },
+    { "key": "creatures/riotstripe/3", "type": "image", "path": "creatures/riotstripe3.png" },
+
+    { "key": "creatures/stonemantis/egg", "type": "image", "path": "creatures/stonemantisegg.png" },
+    { "key": "creatures/stonemantis/1", "type": "image", "path": "creatures/stonemantis1.png" },
+    { "key": "creatures/stonemantis/2", "type": "image", "path": "creatures/stonemantis2.png" },
+    { "key": "creatures/stonemantis/3", "type": "image", "path": "creatures/stonemantis3.png" },
+
+    { "key": "creatures/vesperwing/egg", "type": "image", "path": "creatures/vesperwingegg.png" },
+    { "key": "creatures/vesperwing/1", "type": "image", "path": "creatures/vesperwing1.png" },
+    { "key": "creatures/vesperwing/2", "type": "image", "path": "creatures/vesperwing2.png" },
+    { "key": "creatures/vesperwing/3", "type": "image", "path": "creatures/vesperwing3.png" },
+
+    { "key": "creatures/virespine/egg", "type": "image", "path": "creatures/virespineegg.png" },
+    { "key": "creatures/virespine/1", "type": "image", "path": "creatures/virespine1.png" },
+    { "key": "creatures/virespine/2", "type": "image", "path": "creatures/virespine2.png" },
+    { "key": "creatures/virespine/3", "type": "image", "path": "creatures/virespine3.png" },
+
+    { "key": "creatures/voidslug/egg", "type": "image", "path": "creatures/voidslugegg.png" },
+    { "key": "creatures/voidslug/1", "type": "image", "path": "creatures/voidslug1.png" },
+    { "key": "creatures/voidslug/2", "type": "image", "path": "creatures/voidslug2.png" },
+    { "key": "creatures/voidslug/3", "type": "image", "path": "creatures/voidslug3.png" },
+
+    { "key": "exercises/frogstand", "type": "image", "path": "exercises/frogstand.png" }
+  ],
+
+  "creatureEvolutions": {
+    "cyberspark": { "egg": "creatures/cyberspark/egg", "stages": ["creatures/cyberspark/1", "creatures/cyberspark/2", "creatures/cyberspark/3"] },
+    "frostglide": { "egg": "creatures/frostglide/egg", "stages": ["creatures/frostglide/1", "creatures/frostglide/2", "creatures/frostglide/3"] },
+    "glassfin": { "egg": "creatures/glassfin/egg", "stages": ["creatures/glassfin/1", "creatures/glassfin/2", "creatures/glassfin/3"] },
+    "diamond": { "egg": "creatures/diamond/egg", "stages": ["creatures/diamond/1", "creatures/diamond/2", "creatures/diamond/3"] },
+    "gorilla": { "egg": "creatures/gorilla/egg", "stages": ["creatures/gorilla/1", "creatures/gorilla/2", "creatures/gorilla/3"] },
+    "groveback": { "egg": "creatures/groveback/egg", "stages": ["creatures/groveback/1", "creatures/groveback/2", "creatures/groveback/3"] },
+    "frog": { "egg": "creatures/frog/egg", "stages": ["creatures/frog/1", "creatures/frog/2", "creatures/frog/3"] },
+    "ironbeetle": { "egg": "creatures/ironbeetle/egg", "stages": ["creatures/ironbeetle/1", "creatures/ironbeetle/2", "creatures/ironbeetle/3"] },
+    "ironbulwark": { "egg": "creatures/ironbulwark/egg", "stages": ["creatures/ironbulwark/1", "creatures/ironbulwark/2", "creatures/ironbulwark/3"] },
+    "magmacore": { "egg": "creatures/magmacore/egg", "stages": ["creatures/magmacore/1", "creatures/magmacore/2", "creatures/magmacore/3"] },
+    "mech": { "egg": "creatures/mech/egg", "stages": ["creatures/mech/1", "creatures/mech/2", "creatures/mech/3"] },
+    "moonmoth": { "egg": "creatures/moonmoth/egg", "stages": ["creatures/moonmoth/1", "creatures/moonmoth/2", "creatures/moonmoth/3"] },
+    "riotstripe": { "egg": "creatures/riotstripe/egg", "stages": ["creatures/riotstripe/1", "creatures/riotstripe/2", "creatures/riotstripe/3"] },
+    "stonemantis": { "egg": "creatures/stonemantis/egg", "stages": ["creatures/stonemantis/1", "creatures/stonemantis/2", "creatures/stonemantis/3"] },
+    "vesperwing": { "egg": "creatures/vesperwing/egg", "stages": ["creatures/vesperwing/1", "creatures/vesperwing/2", "creatures/vesperwing/3"] },
+    "virespine": { "egg": "creatures/virespine/egg", "stages": ["creatures/virespine/1", "creatures/virespine/2", "creatures/virespine/3"] },
+    "voidslug": { "egg": "creatures/voidslug/egg", "stages": ["creatures/voidslug/1", "creatures/voidslug/2", "creatures/voidslug/3"] }
+  }
+}
