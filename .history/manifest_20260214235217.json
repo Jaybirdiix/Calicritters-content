@@ -125,7 +125,7 @@
     { "key": "exercises/pikePushup/low", "type": "image", "path": "exercises/PikePushupLow.jpg" },
 
     { "key": "exercises/tablePushup/high", "type": "image", "path": "exercises/TablePushupHigh.jpg" },
-    { "key": "exercises/tablePushup/mid", "type": "image", "path": "exercises/TablePushupMid.jpg" },
+    { "key": "exercises/tablePushup/mid", "type": "image", "path": "exercises/TablePushupHigh.jpg" },
     { "key": "exercises/tablePushup/low", "type": "image", "path": "exercises/TablePushupLow.jpg" },
 
     { "key": "exercises/shoulderTaps/1", "type": "image", "path": "exercises/ShoulderTaps1.jpg" },
