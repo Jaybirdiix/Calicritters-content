@@ -44,7 +44,7 @@
     { "key": "creatures/ironbeetle/3", "type": "image", "path": "creatures/ironbeetle3.png" },
 
     { "key": "creatures/ironbulwark/egg", "type": "image", "path": "creatures/ironbulwarkegg.png" },
-    { "key": "creatures/ironbulwark/1", "type": "image", "path": "creatures/ironbulwark1.png" },
+    { "key": "creatures/ironbulwark/1", "type": "image", "path": "creatures/ironbuflwark1.png" },
     { "key": "creatures/ironbulwark/2", "type": "image", "path": "creatures/ironbulwark2.png" },
     { "key": "creatures/ironbulwark/3", "type": "image", "path": "creatures/ironbulwark3.png" },
 
@@ -88,33 +88,7 @@
     { "key": "creatures/voidslug/2", "type": "image", "path": "creatures/voidslug2.png" },
     { "key": "creatures/voidslug/3", "type": "image", "path": "creatures/voidslug3.png" },
 
-    { "key": "exercises/frogstand", "type": "image", "path": "exercises/frogstand.jpg" },
-    { "key": "exercises/compressionSeated", "type": "image", "path": "exercises/compressionSeated.jpg" },
-    { "key": "exercises/seatedPikeStretch/1", "type": "image", "path": "exercises/seatedPikeStretch1.jpg" },
-    { "key": "exercises/seatedPikeStretch/2", "type": "image", "path": "exercises/seatedPikeStretch2.jpg" },
-    { "key": "exercises/oneLegCompressionLift/1", "type": "image", "path": "exercises/oneLegCompressionLift1.jpg" },
-    { "key": "exercises/twoLegCompressionLift/1", "type": "image", "path": "exercises/twoLegCompressionLift1.jpg" },
-
-    { "key": "exercises/highPlank", "type": "image", "path": "exercises/HighPlank.jpg" },
-    { "key": "exercises/lowPlank", "type": "image", "path": "exercises/LowPlank.jpg" },
-
-    { "key": "exercises/hollowHold", "type": "image", "path": "exercises/HollowHold.jpg" },
-    { "key": "exercises/tuckHollowHold", "type": "image", "path": "exercises/TuckHollowHold.jpg" },
-    { "key": "exercises/oneLegTuckHollowHold", "type": "image", "path": "exercises/OneLegTuckHollowHold.jpg" },
-
-    { "key": "exercises/plancheLean", "type": "image", "path": "exercises/PlancheLean.jpg" },
-
-    { "key": "exercises/scapularPushup/high", "type": "image", "path": "exercises/ScapularPushupHigh.jpg" },
-    { "key": "exercises/scapularPushup/low", "type": "image", "path": "exercises/ScapularPushupLow.jpg" },
-
-    { "key": "exercises/pushup/low", "type": "image", "path": "exercises/PushupLow.jpg" },
-    { "key": "exercises/kneePushUp/high", "type": "image", "path": "exercises/KneePushUpHigh.jpg" },
-    { "key": "exercises/kneePushUp/low", "type": "image", "path": "exercises/KneePushUpLow.jpg" },
-
-    { "key": "exercises/lowInclinePushup/high", "type": "image", "path": "exercises/LowInclinePushupHigh.jpg" },
-    { "key": "exercises/lowInclinePushup/low", "type": "image", "path": "exercises/LowInclinePushupLow.jpg" }
-
-
+    { "key": "exercises/frogstand", "type": "image", "path": "exercises/frogstand.png" }
   ],
 
   "creatureEvolutions": {

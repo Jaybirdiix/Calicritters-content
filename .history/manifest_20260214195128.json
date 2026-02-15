@@ -93,9 +93,9 @@
     { "key": "exercises/seatedPikeStretch/1", "type": "image", "path": "exercises/seatedPikeStretch1.jpg" },
     { "key": "exercises/seatedPikeStretch/2", "type": "image", "path": "exercises/seatedPikeStretch2.jpg" },
     { "key": "exercises/oneLegCompressionLift/1", "type": "image", "path": "exercises/oneLegCompressionLift1.jpg" },
-    { "key": "exercises/twoLegCompressionLift/1", "type": "image", "path": "exercises/twoLegCompressionLift1.jpg" },
+    { "key": "exercises/twoLegCompressionLift/1", "type": "image", "path": "exercises/twoLegCompressionLift1.jpg" }
 
-    { "key": "exercises/highPlank", "type": "image", "path": "exercises/HighPlank.jpg" },
+        { "key": "exercises/highPlank", "type": "image", "path": "exercises/HighPlank.jpg" },
     { "key": "exercises/lowPlank", "type": "image", "path": "exercises/LowPlank.jpg" },
 
     { "key": "exercises/hollowHold", "type": "image", "path": "exercises/HollowHold.jpg" },
