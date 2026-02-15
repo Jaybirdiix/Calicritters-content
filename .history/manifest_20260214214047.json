@@ -114,6 +114,7 @@
     { "key": "exercises/lowInclinePushup/high", "type": "image", "path": "exercises/LowInclinePushupHigh.jpg" },
     { "key": "exercises/lowInclinePushup/low", "type": "image", "path": "exercises/LowInclinePushupLow.jpg" },
 
+    // new
     
     { "key": "exercises/assistedPushup/high", "type": "image", "path": "exercises/AssistedPushupHigh.jpg" },
     { "key": "exercises/assistedPushup/low", "type": "image", "path": "exercises/AssistedPushupLow.jpg" },
@@ -138,10 +139,6 @@
 
     { "key": "exercises/wallAssistedLsit/high", "type": "image", "path": "exercises/WallAssistedLsitHigh.jpg" },
     { "key": "exercises/wallAssistedLsit/low", "type": "image", "path": "exercises/WallAssistedLsitLow.jpg" },
-
-    { "key": "exercises/wallPushup/high", "type": "image", "path": "exercises/WallPushupHigh.jpg" },
-    { "key": "exercises/wallPushup/low",  "type": "image", "path": "exercises/WallPushupLow.jpg" },
-
 
     { "key": "exercises/lsitLift/low", "type": "image", "path": "exercises/LsitLiftoffLow.jpg" },
     { "key": "exercises/lsitLift/high", "type": "image", "path": "exercises/LsitLiftoffHigh.jpg" }

@@ -139,7 +139,7 @@
     { "key": "exercises/wallAssistedLsit/high", "type": "image", "path": "exercises/WallAssistedLsitHigh.jpg" },
     { "key": "exercises/wallAssistedLsit/low", "type": "image", "path": "exercises/WallAssistedLsitLow.jpg" },
 
-    { "key": "exercises/wallPushup/high", "type": "image", "path": "exercises/WallPushupHigh.jpg" },
+        { "key": "exercises/wallPushup/high", "type": "image", "path": "exercises/WallPushupHigh.jpg" },
     { "key": "exercises/wallPushup/low",  "type": "image", "path": "exercises/WallPushupLow.jpg" },
 
 
