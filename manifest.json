@@ -88,7 +88,15 @@
     { "key": "creatures/voidslug/2", "type": "image", "path": "creatures/voidslug2.png" },
     { "key": "creatures/voidslug/3", "type": "image", "path": "creatures/voidslug3.png" },
 
-    { "key": "exercises/frogstand", "type": "image", "path": "exercises/frogstand.png" }
+    { "key": "exercises/frogstand", "type": "image", "path": "exercises/frogstand.jpg" },
+    { "key": "exercises/compressionSeated", "type": "image", "path": "exercises/compressionSeated.jpg" },
+    { "key": "exercises/scapularPushup/1", "type": "image", "path": "exercises/scapularPushup1.jpg" },
+    { "key": "exercises/scapularPushup/2", "type": "image", "path": "exercises/scapularPushup2.jpg" },
+    { "key": "exercises/seatedPikeStretch/1", "type": "image", "path": "exercises/seatedPikeStretch1.jpg" },
+    { "key": "exercises/seatedPikeStretch/2", "type": "image", "path": "exercises/seatedPikeStretch2.jpg" },
+    { "key": "exercises/oneLegCompressionLift/1", "type": "image", "path": "exercises/oneLegCompressionLift1.jpg" },
+    { "key": "exercises/twoLegCompressionLift/1", "type": "image", "path": "exercises/twoLegCompressionLift1.jpg" }
+
   ],
 
   "creatureEvolutions": {
