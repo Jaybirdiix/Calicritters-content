@@ -146,11 +146,7 @@
     { "key": "exercises/lsitLift/low", "type": "image", "path": "exercises/LsitLiftoffLow.jpg" },
     { "key": "exercises/lsitLift/high", "type": "image", "path": "exercises/LsitLiftoffHigh.jpg" },
     
-    { "key": "exercises/wristPrep/1", "type": "image", "path": "exercises/WristPrep1.jpg" },
-    { "key": "exercises/wristPrep/2", "type": "image", "path": "exercises/WristPrep2.jpg" },
-    { "key": "exercises/wristPrep/3", "type": "image", "path": "exercises/WristPrep3.jpg" },
-    { "key": "exercises/wristPrep/4", "type": "image", "path": "exercises/WristPrep4.jpg" },
-    { "key": "exercises/wristPrep/5", "type": "image", "path": "exercises/WristPrep5.jpg" }
+    { "key": "exercises/lsitLift/high", "type": "image", "path": "exercises/LsitLiftoffHigh.jpg" }
 
 
 
