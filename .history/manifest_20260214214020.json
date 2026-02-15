@@ -115,6 +115,8 @@
     { "key": "exercises/lowInclinePushup/low", "type": "image", "path": "exercises/LowInclinePushupLow.jpg" },
 
     
+    
+    
     { "key": "exercises/assistedPushup/high", "type": "image", "path": "exercises/AssistedPushupHigh.jpg" },
     { "key": "exercises/assistedPushup/low", "type": "image", "path": "exercises/AssistedPushupLow.jpg" },
 

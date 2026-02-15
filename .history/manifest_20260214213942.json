@@ -112,37 +112,10 @@
     { "key": "exercises/kneePushUp/low", "type": "image", "path": "exercises/KneePushUpLow.jpg" },
 
     { "key": "exercises/lowInclinePushup/high", "type": "image", "path": "exercises/LowInclinePushupHigh.jpg" },
-    { "key": "exercises/lowInclinePushup/low", "type": "image", "path": "exercises/LowInclinePushupLow.jpg" },
+    { "key": "exercises/lowInclinePushup/low", "type": "image", "path": "exercises/LowInclinePushupLow.jpg" }
+
 
     
-    { "key": "exercises/assistedPushup/high", "type": "image", "path": "exercises/AssistedPushupHigh.jpg" },
-    { "key": "exercises/assistedPushup/low", "type": "image", "path": "exercises/AssistedPushupLow.jpg" },
-
-    { "key": "exercises/benchDip/high", "type": "image", "path": "exercises/BenchDipHigh.jpg" },
-    { "key": "exercises/benchDip/low", "type": "image", "path": "exercises/BenchDipLow.jpg" },
-
-    { "key": "exercises/pikePushup/high", "type": "image", "path": "exercises/PikePushupHigh.jpg" },
-    { "key": "exercises/pikePushup/low", "type": "image", "path": "exercises/PikePushupLow.jpg" },
-
-    { "key": "exercises/tablePushup/high", "type": "image", "path": "exercises/TablePushupHigh.jpg" },
-    { "key": "exercises/tablePushup/low", "type": "image", "path": "exercises/TablePushupLow.jpg" },
-
-    { "key": "exercises/shoulderTaps/1", "type": "image", "path": "exercises/ShoulderTaps1.jpg" },
-    { "key": "exercises/shoulderTaps/2", "type": "image", "path": "exercises/ShoulderTaps2.jpg" },
-    { "key": "exercises/shoulderTaps/3", "type": "image", "path": "exercises/ShoulderTaps3.jpg" },
-
-    { "key": "exercises/crow", "type": "image", "path": "exercises/Crow.jpg" },
-
-    { "key": "exercises/lsit", "type": "image", "path": "exercises/Lsit.jpg" },
-    { "key": "exercises/lsitAssisted", "type": "image", "path": "exercises/LsitAssisted.jpg" },
-
-    { "key": "exercises/wallAssistedLsit/high", "type": "image", "path": "exercises/WallAssistedLsitHigh.jpg" },
-    { "key": "exercises/wallAssistedLsit/low", "type": "image", "path": "exercises/WallAssistedLsitLow.jpg" },
-
-    { "key": "exercises/lsitLift/low", "type": "image", "path": "exercises/LsitLiftoffLow.jpg" },
-    { "key": "exercises/lsitLift/high", "type": "image", "path": "exercises/LsitLiftoffHigh.jpg" }
-
-
 
   ],
 
