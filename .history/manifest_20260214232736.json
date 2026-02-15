@@ -150,38 +150,9 @@
     { "key": "exercises/wristPrep/2", "type": "image", "path": "exercises/WristPrep2.jpg" },
     { "key": "exercises/wristPrep/3", "type": "image", "path": "exercises/WristPrep3.jpg" },
     { "key": "exercises/wristPrep/4", "type": "image", "path": "exercises/WristPrep4.jpg" },
-    { "key": "exercises/wristPrep/5", "type": "image", "path": "exercises/WristPrep5.jpg" },
+    { "key": "exercises/wristPrep/5", "type": "image", "path": "exercises/WristPrep5.jpg" }
 
     
-    
-    { "key": "exercises/plankArmExtend/1", "type": "image", "path": "exercises/PlankArmExtend1.jpg" },
-    { "key": "exercises/plankArmExtend/2", "type": "image", "path": "exercises/PlankArmExtend2.jpg" },
-    { "key": "exercises/plankArmExtend/3", "type": "image", "path": "exercises/PlankArmExtend3.jpg" },
-
-    { "key": "exercises/deadBug/1", "type": "image", "path": "exercises/DeadBug1.jpg" },
-    { "key": "exercises/deadBug/2", "type": "image", "path": "exercises/DeadBug2.jpg" },
-    { "key": "exercises/deadBug/3", "type": "image", "path": "exercises/DeadBug3.jpg" },
-
-    { "key": "exercises/reverseCrunch/1", "type": "image", "path": "exercises/ReverseCrunch1.jpg" },
-    { "key": "exercises/reverseCrunch/2", "type": "image", "path": "exercises/ReverseCrunch2.jpg" },
-    { "key": "exercises/reverseCrunch/3", "type": "image", "path": "exercises/ReverseCrunch3.jpg" },
-
-    { "key": "exercises/elbowLeverEntry/1", "type": "image", "path": "exercises/ElbowLeverEntry1.jpg" },
-    { "key": "exercises/elbowLeverEntry/2", "type": "image", "path": "exercises/ElbowLeverEntry2.jpg" },
-    { "key": "exercises/elbowLeverEntry/3", "type": "image", "path": "exercises/ElbowLeverEntry3.jpg" },
-
-    { "key": "exercises/frogEntry/1", "type": "image", "path": "exercises/FrogEntry1.jpg" },
-    { "key": "exercises/frogEntry/2", "type": "image", "path": "exercises/FrogEntry2.jpg" },
-    { "key": "exercises/frogEntry/3", "type": "image", "path": "exercises/FrogEntry3.jpg" },
-
-    { "key": "exercises/lyingLegRaise/high", "type": "image", "path": "exercises/LyingLegRaiseHigh.jpg" },
-    { "key": "exercises/lyingLegRaise/low", "type": "image", "path": "exercises/LyingLegRaiseLow.jpg" },
-
-    { "key": "exercises/pushup/mid", "type": "image", "path": "exercises/PushupMid.jpg" },
-    { "key": "exercises/kneePushUp/mid", "type": "image", "path": "exercises/KneePushUpMid.jpg" },
-
-    { "key": "exercises/tuckLsit", "type": "image", "path": "exercises/TuckLsit.jpg" }
-
 
 
 

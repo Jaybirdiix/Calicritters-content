@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-27",
+  "updatedAt": "2026-02-14",
   "baseUrl": "https://raw.githubusercontent.com/Jaybirdiix/Calicritters-content/main/",
   "assets": [
     { "key": "creatures/cyberspark/egg", "type": "image", "path": "creatures/cybersparkegg.png" },
@@ -104,17 +104,34 @@
 
     { "key": "exercises/plancheLean", "type": "image", "path": "exercises/PlancheLean.jpg" },
 
+    { "key": "exercises/plankArmExtend/1", "type": "image", "path": "exercises/PlankArmExtend1.jpg" },
+    { "key": "exercises/plankArmExtend/2", "type": "image", "path": "exercises/PlankArmExtend2.jpg" },
+    { "key": "exercises/plankArmExtend/3", "type": "image", "path": "exercises/PlankArmExtend3.jpg" },
+
+    { "key": "exercises/deadBug/1", "type": "image", "path": "exercises/DeadBug1.jpg" },
+    { "key": "exercises/deadBug/2", "type": "image", "path": "exercises/DeadBug2.jpg" },
+    { "key": "exercises/deadBug/3", "type": "image", "path": "exercises/DeadBug3.jpg" },
+
+    { "key": "exercises/reverseCrunch/1", "type": "image", "path": "exercises/ReverseCrunch1.jpg" },
+    { "key": "exercises/reverseCrunch/2", "type": "image", "path": "exercises/ReverseCrunch2.jpg" },
+    { "key": "exercises/reverseCrunch/3", "type": "image", "path": "exercises/ReverseCrunch3.jpg" },
+
+    { "key": "exercises/lyingLegRaise/high", "type": "image", "path": "exercises/LyingLegRaiseHigh.jpg" },
+    { "key": "exercises/lyingLegRaise/low", "type": "image", "path": "exercises/LyingLegRaiseLow.jpg" },
+
     { "key": "exercises/scapularPushup/high", "type": "image", "path": "exercises/ScapularPushupHigh.jpg" },
     { "key": "exercises/scapularPushup/low", "type": "image", "path": "exercises/ScapularPushupLow.jpg" },
 
     { "key": "exercises/pushup/low", "type": "image", "path": "exercises/PushupLow.jpg" },
+    { "key": "exercises/pushup/mid", "type": "image", "path": "exercises/PushupMid.jpg" },
+
     { "key": "exercises/kneePushUp/high", "type": "image", "path": "exercises/KneePushUpHigh.jpg" },
+    { "key": "exercises/kneePushUp/mid", "type": "image", "path": "exercises/KneePushUpMid.jpg" },
     { "key": "exercises/kneePushUp/low", "type": "image", "path": "exercises/KneePushUpLow.jpg" },
 
     { "key": "exercises/lowInclinePushup/high", "type": "image", "path": "exercises/LowInclinePushupHigh.jpg" },
     { "key": "exercises/lowInclinePushup/low", "type": "image", "path": "exercises/LowInclinePushupLow.jpg" },
 
-    
     { "key": "exercises/assistedPushup/high", "type": "image", "path": "exercises/AssistedPushupHigh.jpg" },
     { "key": "exercises/assistedPushup/low", "type": "image", "path": "exercises/AssistedPushupLow.jpg" },
 
@@ -133,39 +150,6 @@
 
     { "key": "exercises/crow", "type": "image", "path": "exercises/Crow.jpg" },
 
-    { "key": "exercises/lsit", "type": "image", "path": "exercises/Lsit.jpg" },
-    { "key": "exercises/lsitAssisted", "type": "image", "path": "exercises/LsitAssisted.jpg" },
-
-    { "key": "exercises/wallAssistedLsit/high", "type": "image", "path": "exercises/WallAssistedLsitHigh.jpg" },
-    { "key": "exercises/wallAssistedLsit/low", "type": "image", "path": "exercises/WallAssistedLsitLow.jpg" },
-
-    { "key": "exercises/wallPushup/high", "type": "image", "path": "exercises/WallPushupHigh.jpg" },
-    { "key": "exercises/wallPushup/low",  "type": "image", "path": "exercises/WallPushupLow.jpg" },
-
-
-    { "key": "exercises/lsitLift/low", "type": "image", "path": "exercises/LsitLiftoffLow.jpg" },
-    { "key": "exercises/lsitLift/high", "type": "image", "path": "exercises/LsitLiftoffHigh.jpg" },
-    
-    { "key": "exercises/wristPrep/1", "type": "image", "path": "exercises/WristPrep1.jpg" },
-    { "key": "exercises/wristPrep/2", "type": "image", "path": "exercises/WristPrep2.jpg" },
-    { "key": "exercises/wristPrep/3", "type": "image", "path": "exercises/WristPrep3.jpg" },
-    { "key": "exercises/wristPrep/4", "type": "image", "path": "exercises/WristPrep4.jpg" },
-    { "key": "exercises/wristPrep/5", "type": "image", "path": "exercises/WristPrep5.jpg" },
-
-    
-    
-    { "key": "exercises/plankArmExtend/1", "type": "image", "path": "exercises/PlankArmExtend1.jpg" },
-    { "key": "exercises/plankArmExtend/2", "type": "image", "path": "exercises/PlankArmExtend2.jpg" },
-    { "key": "exercises/plankArmExtend/3", "type": "image", "path": "exercises/PlankArmExtend3.jpg" },
-
-    { "key": "exercises/deadBug/1", "type": "image", "path": "exercises/DeadBug1.jpg" },
-    { "key": "exercises/deadBug/2", "type": "image", "path": "exercises/DeadBug2.jpg" },
-    { "key": "exercises/deadBug/3", "type": "image", "path": "exercises/DeadBug3.jpg" },
-
-    { "key": "exercises/reverseCrunch/1", "type": "image", "path": "exercises/ReverseCrunch1.jpg" },
-    { "key": "exercises/reverseCrunch/2", "type": "image", "path": "exercises/ReverseCrunch2.jpg" },
-    { "key": "exercises/reverseCrunch/3", "type": "image", "path": "exercises/ReverseCrunch3.jpg" },
-
     { "key": "exercises/elbowLeverEntry/1", "type": "image", "path": "exercises/ElbowLeverEntry1.jpg" },
     { "key": "exercises/elbowLeverEntry/2", "type": "image", "path": "exercises/ElbowLeverEntry2.jpg" },
     { "key": "exercises/elbowLeverEntry/3", "type": "image", "path": "exercises/ElbowLeverEntry3.jpg" },
@@ -174,17 +158,24 @@
     { "key": "exercises/frogEntry/2", "type": "image", "path": "exercises/FrogEntry2.jpg" },
     { "key": "exercises/frogEntry/3", "type": "image", "path": "exercises/FrogEntry3.jpg" },
 
-    { "key": "exercises/lyingLegRaise/high", "type": "image", "path": "exercises/LyingLegRaiseHigh.jpg" },
-    { "key": "exercises/lyingLegRaise/low", "type": "image", "path": "exercises/LyingLegRaiseLow.jpg" },
+    { "key": "exercises/lsit", "type": "image", "path": "exercises/Lsit.jpg" },
+    { "key": "exercises/lsitAssisted", "type": "image", "path": "exercises/LsitAssisted.jpg" },
+    { "key": "exercises/tuckLsit", "type": "image", "path": "exercises/TuckLsit.jpg" },
 
-    { "key": "exercises/pushup/mid", "type": "image", "path": "exercises/PushupMid.jpg" },
-    { "key": "exercises/kneePushUp/mid", "type": "image", "path": "exercises/KneePushUpMid.jpg" },
+    { "key": "exercises/wallAssistedLsit/high", "type": "image", "path": "exercises/WallAssistedLsitHigh.jpg" },
+    { "key": "exercises/wallAssistedLsit/low", "type": "image", "path": "exercises/WallAssistedLsitLow.jpg" },
 
-    { "key": "exercises/tuckLsit", "type": "image", "path": "exercises/TuckLsit.jpg" }
+    { "key": "exercises/wallPushup/high", "type": "image", "path": "exercises/WallPushupHigh.jpg" },
+    { "key": "exercises/wallPushup/low", "type": "image", "path": "exercises/WallPushupLow.jpg" },
 
+    { "key": "exercises/lsitLift/low", "type": "image", "path": "exercises/LsitLiftoffLow.jpg" },
+    { "key": "exercises/lsitLift/high", "type": "image", "path": "exercises/LsitLiftoffHigh.jpg" },
 
-
-
+    { "key": "exercises/wristPrep/1", "type": "image", "path": "exercises/WristPrep1.jpg" },
+    { "key": "exercises/wristPrep/2", "type": "image", "path": "exercises/WristPrep2.jpg" },
+    { "key": "exercises/wristPrep/3", "type": "image", "path": "exercises/WristPrep3.jpg" },
+    { "key": "exercises/wristPrep/4", "type": "image", "path": "exercises/WristPrep4.jpg" },
+    { "key": "exercises/wristPrep/5", "type": "image", "path": "exercises/WristPrep5.jpg" }
   ],
 
   "creatureEvolutions": {

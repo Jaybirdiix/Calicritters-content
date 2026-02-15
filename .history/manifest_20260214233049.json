@@ -150,11 +150,10 @@
     { "key": "exercises/wristPrep/2", "type": "image", "path": "exercises/WristPrep2.jpg" },
     { "key": "exercises/wristPrep/3", "type": "image", "path": "exercises/WristPrep3.jpg" },
     { "key": "exercises/wristPrep/4", "type": "image", "path": "exercises/WristPrep4.jpg" },
-    { "key": "exercises/wristPrep/5", "type": "image", "path": "exercises/WristPrep5.jpg" },
+    { "key": "exercises/wristPrep/5", "type": "image", "path": "exercises/WristPrep5.jpg" }
 
     
-    
-    { "key": "exercises/plankArmExtend/1", "type": "image", "path": "exercises/PlankArmExtend1.jpg" },
+        { "key": "exercises/plankArmExtend/1", "type": "image", "path": "exercises/PlankArmExtend1.jpg" },
     { "key": "exercises/plankArmExtend/2", "type": "image", "path": "exercises/PlankArmExtend2.jpg" },
     { "key": "exercises/plankArmExtend/3", "type": "image", "path": "exercises/PlankArmExtend3.jpg" },
 
